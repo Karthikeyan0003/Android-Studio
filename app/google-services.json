@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059374190486",
+    "project_id": "bloodbank-236b7",
+    "storage_bucket": "bloodbank-236b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059374190486:android:f54181ce08449dd4c397b7",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.bloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4BJcsSUDr5Wnsqf8hrn6ekaj4nfxyjmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
